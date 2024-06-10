@@ -134,4 +134,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](hamzashaukat714@gmail.com).
+For any inquiries or feedback, please contact [hamzashaukat714@gmail.com](hamzashaukat714@gmail.com).
